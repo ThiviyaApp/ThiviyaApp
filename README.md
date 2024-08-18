@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThiviyaApp
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Analytics and am currently looking for junior data analyst opportunities.
 - 🌱 I’m currently taking an entry-level course on Data Analytics through the KYDP Program.
 - 💞️ This GitHub will mainly serve as my portfolio to be shown to potential employers
 - 📫 Reach me through my LinkedIn: https://www.linkedin.com/in/thiviya-appaneu/
